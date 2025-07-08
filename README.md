@@ -79,3 +79,9 @@ One of the biggest issues I faced was working with virtual environments and inst
  Conclusion:
 
 This task helped me understand the practical use of Python in data handling and automation. Creating a report that doesn't require manual typing, formatting, or copying is a powerful tool in any work or study environment. I feel more confident now using Python for real-world tasks and look forward to applying these skills in future projects. Completing this task also improved my debugging skills and taught me the value of clean, readable code.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/aa301054-eefb-4d3d-9c02-183189f3c6ba)
+
+![Image](https://github.com/user-attachments/assets/00cf6088-9fa8-4954-a81b-ea6865b53a9e)
